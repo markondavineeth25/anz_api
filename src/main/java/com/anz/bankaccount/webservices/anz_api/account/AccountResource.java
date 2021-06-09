@@ -1,6 +1,5 @@
 package com.anz.bankaccount.webservices.anz_api.account;
 
-import com.sun.tools.javac.comp.Todo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
